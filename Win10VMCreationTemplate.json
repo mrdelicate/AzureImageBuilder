@@ -40,7 +40,7 @@
             "type": "PlatformImage",
             "publisher": "MicrosoftWindowsDesktop",
             "offer": "Windows-10",
-            "sku": "2win10-21h2-ent-g2",
+            "sku": "win10-21h2-ent-g2",
             "version": "latest"
           },
           "customize": [
